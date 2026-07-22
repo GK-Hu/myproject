@@ -1,0 +1,13 @@
+# 编译class文件
+*.class
+# jar包
+*.jar
+*.log
+
+# 如果有整个bin、target、build文件夹直接忽略
+bin/
+target/
+build/
+out/
+*.war
+*.ear
